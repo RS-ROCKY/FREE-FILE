@@ -1,7 +1,21 @@
 # FREE-FILE
 
-git clone https://github.com/rcky121/FREE-FILE
+- pkg update
 
-cd FREE-FILE
+- pkg upgrade
 
-python 3K-GIFT.py
+- pkg install python
+
+- pkg install git
+
+- rm -FREE-FILE
+
+- git clone https://github.com/rcky121/FREE-FILE
+
+- pip install requests
+
+- pip install mechanize 
+
+- cd FREE-FILE
+
+- python 3K-GIFT.py
